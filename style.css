@@ -1,0 +1,17 @@
+.titulo_destaque {
+font-size: 40px;
+font-family: serif;
+text-decoration:underline overline;
+} 
+
+.data_destaque{
+font-family: arial;
+}
+
+.ator_destaque{
+font-family: arial;
+}
+
+.descricao_destaque{
+font-family: arial;
+}
